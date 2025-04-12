@@ -5,9 +5,9 @@
 
 
 
-- 📄 Know about my projects through my resume! [https://drive.google.com/drive/folders/1_ldcB5fXCbIAiY-H_GXy1Zlh1WcfzuSd?usp=sharing.](https://drive.google.com/drive/folders/1_ldcB5fXCbIAiY-H_GXy1Zlh1WcfzuSd?usp=sharing.)
+- 📄 Know about my projects through my [resume](https://drive.google.com/drive/folders/1_ldcB5fXCbIAiY-H_GXy1Zlh1WcfzuSd?usp=sharing.)! 
 
-- 👨‍💻 All of my experiences are available at [https://www.linkedin.com/in/xaviertanyixuan/](https://www.linkedin.com/in/xaviertanyixuan/)
+- 👨‍💻 All of my experiences are available on my [LinkedIn](https://www.linkedin.com/in/xaviertanyixuan/)!
   
 - 🔭 I’m currently working on [Dune-Survivors](https://github.com/XavierTann/Dune-Survivors), a roguelite tower defense game set in a harsh, ever-changing desert.
 
