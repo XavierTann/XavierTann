@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xavier Tan</h1>
 <h3 align="center">An aspiring software engineer and game developer from Singapore.</h3>
-<img src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b9520607ycfsfj7bztn09x2vgewgx35hqb4zdy8dw2t2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Description" width="400" height="auto"/>
+<img align="right" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b9520607ycfsfj7bztn09x2vgewgx35hqb4zdy8dw2t2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Coding" width="400" height="auto"/>
+
 
 
 
